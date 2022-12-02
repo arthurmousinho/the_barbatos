@@ -2,6 +2,7 @@
 
 É uma aplicação desktop para gerenciamento de uma barbearia.
 
+![print](https://user-images.githubusercontent.com/102264203/205364689-f22caf6a-f34b-4951-b4fe-5846e473e764.png)
 
 ## ⚙️ Funcionalidades
 
